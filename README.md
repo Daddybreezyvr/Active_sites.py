@@ -16,6 +16,6 @@
 
 1. **Clone the Repository** (if applicable):
    ```bash
-   git clone https://github.com/Daddybreezyvr/Active_sites.py.git
+   git clone https://github.com/Daddybreezyvr/Active_sites.py.
    cd active_sites
 
